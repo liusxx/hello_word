@@ -1,0 +1,5 @@
+/Users/liuxiangxiang/Desktop/projects/hello_word/hello_word/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/liuxiangxiang/Desktop/projects/hello_word/hello_word/bin/Debug/hello_word.exe.mdb
+/Users/liuxiangxiang/Desktop/projects/hello_word/hello_word/bin/Debug/hello_word.exe
+/Users/liuxiangxiang/Desktop/projects/hello_word/hello_word/obj/x86/Debug/hello_word.exe
+/Users/liuxiangxiang/Desktop/projects/hello_word/hello_word/obj/x86/Debug/hello_word.exe.mdb
